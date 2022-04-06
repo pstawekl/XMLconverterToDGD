@@ -6,5 +6,5 @@ Public Class Ustawienia
     Public Property sqlUserId As String = "sa"
     Public Property sqlPasswd As String = "el4505to"
 
-    Public Property iaConn As SqlConnection
+    Public Property iConn As SqlConnection
 End Class
